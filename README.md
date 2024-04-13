@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">💬 Ask me about React Native, React, & Typescript<br>📚 I'm currently learning backend developement with Express,  MongoDB and Graphql<br>🎯 Goals: Senior Full Stack</p>
+- 🔭 I’m currently working on [BTi](https://btilab.co/)
+- 💬 Ask me about React Native, React, & Typescript
+- 📚 I'm currently learning backend developement with Express, MongoDB and Graphql
+- 🎯 Goals: Senior Full Stack
 
 ###
 
